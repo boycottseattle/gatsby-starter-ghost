@@ -10,8 +10,8 @@ try {
 } catch (e) {
     ghostConfig = {
         production: {
-            apiUrl: https://draft.boycottseattle.xyz,
-            contentApiKey: 46029f4912f4dd549e3ff4f565,
+            apiUrl: "https://draft.boycottseattle.xyz",
+            contentApiKey: "46029f4912f4dd549e3ff4f565",
         },
     }
 } finally {
