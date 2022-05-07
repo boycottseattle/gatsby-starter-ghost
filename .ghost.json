@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://192.168.0.167:3879",
+    "apiUrl": "https://draft.boycottseattle.xyz",
     "contentApiKey": "46029f4912f4dd549e3ff4f565"
   },
   "production": {
-    "apiUrl": "http://192.168.0.167:3879",
+    "apiUrl": "https://draft.boycottseattle.xyz",
     "contentApiKey": "46029f4912f4dd549e3ff4f565"
   }
 }
